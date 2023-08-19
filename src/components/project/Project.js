@@ -156,51 +156,36 @@ function Project() {
     //   ],
     // },
     // {
-    //   key: ["react", "express", "all", "restApi", "mern", "node"],
-    //   img: "./asset/project/urlShort.png",
-    //   title: "URL Shortener",
-    //   githubFrontEnd: "https://github.com/Shersha123/urlshotener-frontend.git",
-    //   githubBackEnd: "https://github.com/Shersha123/urlshortener-backend.git",
-    //   sourceCode: "https://ornate-chaja-0ab834.netlify.app",
-    //   shortNote:
-    //     "Ticket booking is a process of selecting and making reservations for the cinema in a particular theatre via the online source.",
-    //   longNote: [
-    //     // "This is  **fullstack** web application",
-    //     "The frontend is built using **React** with **Bootstrap** for styling.",
-    //     "The backend is build with **Node.js** , **Express.js** and uses **MongoDB** as database.",
-    //     "As the title suggests, the app can be used to shorten urls that can be **shared** with **anyone on the internet**.",
-    //     "I have add **login/logout** feature. If the **user** is **loggedin** it will only show that users **data**. ",
-    //     "I have used **JWT for authentication**.",
-    //     "I added **forget password** feature.The forget password link will be **valid for 10m**.",
-    //   ],
-    //   skills: [
-    //     {
-    //       name: "React",
-    //   link: "https://img.icons8.com/officel/40/react.png",
-    //     },
-    //     {
-    //       name: "Node",
-    //       link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
-    //     },
-    //     {
-    //       name: "Express",
-    //       link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg",
-    //     },
-    //     {
-    //       name: "Mongo DB",
-    //       link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg",
-    //     },
-
-    //     {
-    //       name: "Bootstrap",
-    //       link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
-    //     },
-    //     {
-    //       name: "JWT",
-    //       link: "./asset/jwt.svg",
-    //     },
-    //   ],
-    // },
+      key: ["react","Javascript"],
+      img: "./asset/project/urlShort.png",
+      title: "Money-Management",
+      githubFrontEnd: "https://github.com/mdnriyas17/webcode-2",
+      
+      sourceCode: "https://fanciful-dolphin-6a5a2f.netlify.app/",
+      shortNote:
+        "Ticket booking is a process of selecting and making reservations for the cinema in a particular theatre via the online source.",
+      longNote: [
+        // "This is  **fullstack** web application",
+        "The frontend is built using **React** with **Bootstrap** for styling.",
+        "The backend is build with **Node.js** , **Express.js** and uses **MongoDB** as database.",
+        "As the title suggests, the app can be used to shorten urls that can be **shared** with **anyone on the internet**.",
+        "I have add **login/logout** feature. If the **user** is **loggedin** it will only show that users **data**. ",
+        "I have used **JWT for authentication**.",
+        "I added **forget password** feature.The forget password link will be **valid for 10m**.",
+      ],
+      skills: [
+        {
+          name: "React",
+      link: "https://img.icons8.com/officel/40/react.png",
+        },
+        
+        {
+          name: "Bootstrap",
+          link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
+        },
+       
+      ],
+    },
     {
       key: ["javascript", "all", "mockApi"],
       img: "./asset/project/postman.png",

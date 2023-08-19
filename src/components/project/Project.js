@@ -173,19 +173,19 @@ function Project() {
       //   "I have used **JWT for authentication**.",
       //   "I added **forget password** feature.The forget password link will be **valid for 10m**.",
       // ],
-      skills: [
-        {
-          name: "React",
-      link: "https://img.icons8.com/officel/40/react.png",
-        },
+    //   skills: [
+    //     {
+    //       name: "React",
+    //   link: "https://img.icons8.com/officel/40/react.png",
+    //     },
         
-        {
-          name: "Bootstrap",
-          link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
-        },
+    //     {
+    //       name: "Bootstrap",
+    //       link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
+    //     },
        
-      ],
-    },
+    //   ],
+    // },
     {
       key: ["javascript", "all", "mockApi"],
       img: "./asset/project/postman.png",

@@ -156,23 +156,23 @@ function Project() {
     //   ],
     // },
     // {
-      key: ["react","Javascript"],
-      img: "./asset/project/urlShort.png",
-      title: "Money-Management",
-      githubFrontEnd: "https://github.com/mdnriyas17/webcode-2",
+      // key: ["react","Javascript"],
+      // img: "./asset/project/urlShort.png",
+      // title: "Money-Management",
+      // githubFrontEnd: "https://github.com/mdnriyas17/webcode-2",
       
-      sourceCode: "https://fanciful-dolphin-6a5a2f.netlify.app/",
-      shortNote:
-        "Ticket booking is a process of selecting and making reservations for the cinema in a particular theatre via the online source.",
-      longNote: [
-        // "This is  **fullstack** web application",
-        "The frontend is built using **React** with **Bootstrap** for styling.",
-        "The backend is build with **Node.js** , **Express.js** and uses **MongoDB** as database.",
-        "As the title suggests, the app can be used to shorten urls that can be **shared** with **anyone on the internet**.",
-        "I have add **login/logout** feature. If the **user** is **loggedin** it will only show that users **data**. ",
-        "I have used **JWT for authentication**.",
-        "I added **forget password** feature.The forget password link will be **valid for 10m**.",
-      ],
+      // sourceCode: "https://fanciful-dolphin-6a5a2f.netlify.app/",
+      // shortNote:
+      //   "Ticket booking is a process of selecting and making reservations for the cinema in a particular theatre via the online source.",
+      // longNote: [
+      //   // "This is  **fullstack** web application",
+      //   "The frontend is built using **React** with **Bootstrap** for styling.",
+      //   "The backend is build with **Node.js** , **Express.js** and uses **MongoDB** as database.",
+      //   "As the title suggests, the app can be used to shorten urls that can be **shared** with **anyone on the internet**.",
+      //   "I have add **login/logout** feature. If the **user** is **loggedin** it will only show that users **data**. ",
+      //   "I have used **JWT for authentication**.",
+      //   "I added **forget password** feature.The forget password link will be **valid for 10m**.",
+      // ],
       skills: [
         {
           name: "React",
